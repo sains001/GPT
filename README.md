@@ -10,7 +10,6 @@
   - 💬 Chat streaming secara real-time melalui model gratis OpenRouter
   - 🧠 Animasi titik “thinking” saat AI sedang merespons
   - ⚡ Streaming teks langsung dengan cursor berkedip
-  - 🌐 UI bahasa Prancis sesuai tampilan screenshot
   - ⚙️ Modal pengaturan lengkap: Général, Notifications,
   Personnalisation, dan lainnya
   - 🔒 Toggle Jailbreak Mode BETA, hanya kosmetik
